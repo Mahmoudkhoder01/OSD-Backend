@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fHEnSMEx0Z23AvEV6zrgE1JgbwmMlLfg+ztR55x2JPE=",
+  "Source": "osd-backend",
+  "BasePath": "_content/osd-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
